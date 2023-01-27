@@ -10,7 +10,7 @@
         "emailjs-com": "^3.2.0",
         "swiper": "^8.0.7",
         "vue": "^3.2.31",
-        "vue-router": "^4.0.12"
+        "vue-router": "^4.1.6"
     },
     "devDependencies": {
         "@types/tailwindcss": "^3.0.8",
