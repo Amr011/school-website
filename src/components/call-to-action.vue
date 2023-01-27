@@ -7,7 +7,7 @@ export default {
   <!-- call-to-action-section -->
   <div
     class="mx-auto mt-32 max-w-[1100px] items-center rounded-[20px] bg-blue-500 text-white"
-    style="background-image: url('../../public/images/bg2.png')"
+    style="background-image: url('../images/bg2.png')"
   >
     <div class="flex-1 items-center justify-between py-8 md:flex lg:flex-1 xl:flex-1">
       <div class="max-w-[386px] p-12 text-4xl font-bold">

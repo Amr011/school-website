@@ -7,7 +7,7 @@ export default {
   <!-- about-2-section -->
   <div class="mx-auto my-4 max-w-[1100px] px-4">
     <div
-      class="lg:item-center grid grid-cols-1 grid-rows-2 items-start gap-16 lg:grid-cols-2 lg:grid-rows-1 xl:grid-cols-2 xl:grid-rows-1 xl:items-center"
+      class="lg:item-center grid grid-cols-1 grid-rows-2 items-start gap-16 md:items-center lg:grid-cols-2 lg:grid-rows-1 xl:grid-cols-2 xl:grid-rows-1 xl:items-center"
     >
       <!-- about-2-content -->
       <div class="row-start-2 lg:row-start-1 xl:col-start-2 xl:row-start-1">

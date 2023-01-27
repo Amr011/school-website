@@ -7,11 +7,13 @@ export default {
   <!-- features-section -->
   <div
     class="relative -z-10 my-40 mx-auto mb-[76rem] h-72 max-w-[1100px] items-center rounded-[20px] bg-blue-500 text-white md:mb-[26rem] xl:mb-[12rem]"
-    style="background-image: url('../../public/images/bg2.png')"
+    style="background-image: url('../images/bg2.png')"
   >
     <div class="flex-1 items-start justify-between pb-8 md:flex lg:flex-1 xl:flex-1">
-      <div class="px-12 pt-12 text-[42px] font-bold">لماذا مدرسة الشام؟</div>
-      <p class="w-auto px-12 pt-4 md:w-2/6 md:pt-6 lg:w-2/6 lg:pt-6 xl:w-2/6 xl:pt-6">
+      <div class="px-12 pt-6 text-[42px] font-bold md:pt-12 lg:pt-12 xl:pt-12">
+        لماذا مدرسة الشام؟
+      </div>
+      <p class="w-auto px-12 pt-0 md:w-2/6 md:pt-6 lg:w-2/6 lg:pt-6 xl:w-2/6 xl:pt-6">
         نحن مدرسة افتراضية نقوم بتدريس المنهاج السوري وفقاً لوزارة التربية والتعليم في سوريا
       </p>
 
